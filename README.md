@@ -14,18 +14,6 @@ The repository is organized as follows:
 - `LICENSE`: The project's open-source license.
 - `README.md`: The file you are currently reading.
 
-## How to Use
-1. Clone this repository to your local machine using the following command:
-
-2. Navigate to the project directory:
-
-3. Set up a Python virtual environment (optional but recommended):
-
-4. Install the required Python packages:
-
-5. Run the Jupyter notebooks in the `notebooks/` directory to explore the data analysis and model development.
-
-6. You can also use the provided Python scripts in the `src/` directory for model training and prediction.
 
 ## Contributors
 - [Chirag Sanadhya](https://github.com/chiragsanadhya)
